@@ -1,0 +1,57 @@
+			
+			
+					================================
+
+
+			 	  		   Menu Help
+
+
+					================================
+
+
+
+	Saat memulai aplikasi anda akan diberikan pilihan fitur sebagai berikut :
+	
+	[1] Start = menu yang berisikan fitur utama dari aplikasi ini yaitu kalkulasi matematika secara saintifik. 
+
+		Berikut langkah untuk menggunakan menu Start :
+
+		a. Pilih angka 1 untuk masuk ke menu Start
+		b. Saat masuk ke menu Start anda akan disuguhkan tampilan kalkulator dengan button yang memuat perhitungan 
+		   apa saja yang dapat dilakukan oleh aplikasi
+		c. Fitur atau operasi yang terdapat pada program aplikasi ini di antaranya :
+
+			()	= pengelompokan operasi
+			^	= operasi pangkat
+			v	= operasi akar
+			*	= operasi perkalian
+			/	= operasi pembagian
+			%	= operasi pemersenan 
+			+	= operasi penjumlahan
+			-	= operasi pengurangan
+			Kalkulasi akan dilakukan dari operasi yang berderajat tertinggi dulu, derajat operasi telah 
+			diurutkan dari atas ke bawah pada list operasi di atas.
+
+			keterangan : untuk penulisan akar seperti 327, maka ditulis 3v27
+
+		d. Untuk melakukan kalkulasi masukkan angka dan ekspresi operasi yang akan dilakukan pada kolom kosong 
+		   di tulisan "Please enter an expression:"
+
+		e. Klik enter dan hasil akan ditampilkan di kotak layar tampilan gambar kalkulator.
+
+		f. Setelah hasil ditampilkan maka anda akan diberikan pilihan lanjut atau selesai menghitung "Lanjutkan Operasi? (y/n) :"
+
+		g. Input "y" untuk melakukan kalkulasi lagi, input "n" untuk menghentikan kalkulasi
+
+		h. Jika anda memilih "n", maka anda akan diberikan perintah "Press ESCAPE on your keyboard to main menu", 
+		   klik button Esc pada keyboard anda untuk kembali ke Main Menu.
+	
+	[3] History = History merupakan pilihan menu yang berisikan fitur yang dapat memberikan informasi 
+      	    30 catatan terakhir operasi kalkulator yang telah dilakukan oleh aplikasi beserta waktunya kepada pengguna.
+	
+	[4] Help = Mengarahkan ke user manual yang dapat anda baca.
+	
+	[5] Credit = Mengarahkan ke informasi credit aplikasi.
+	
+	[6] Exit = Keluar dari program aplikasi.
+
